@@ -1,0 +1,15 @@
+<Placemark>
+        <name>Müller, Walter and Kielhorn, Martin and Schmitt, Michael
+</name>
+        <address>Institute of Physical Chemistry and Abbe Center of Photonics, Germany</address>
+        <description><![CDATA[location: Institute of Physical Chemistry and Abbe Center of Photonics, Germany<br>citation: Müller,W., Kielhorn,M., & Schmitt,M.,et al.(2016). Light sheet Raman micro-spectroscopy 3, (4). Retrived from https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-4-452]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="location">
+            <value>Institute of Physical Chemistry and Abbe Center of Photonics, Germany</value>
+          </Data>
+          <Data name="citation">
+            <value><![CDATA[Müller,W., Kielhorn,M., & Schmitt,M.,et al.(2016). Light sheet Raman micro-spectroscopy 3, (4). Retrived from https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-4-452]]></value>
+        </Data>
+        </ExtendedData>
+        </Placemark>

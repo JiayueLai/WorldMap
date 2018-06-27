@@ -1,0 +1,11 @@
+.mapboxgl-popup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: -webkit-flex;
+    display: flex;
+    will-change: transform;
+    pointer-events: none;
+    height: 180px;
+    width: 280px;
+}
